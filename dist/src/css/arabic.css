@@ -1,0 +1,12 @@
+*{
+    font-family: 'El Messiri', sans-serif;
+}
+
+.menu-p .menu-content .h1 i,
+.about-p .h1 i,
+.contact .h1 i{
+    left: 10px;
+    right: unset;
+    }
+    
+    .hvr-backward{display: block;}
